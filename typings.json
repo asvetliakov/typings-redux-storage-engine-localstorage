@@ -1,0 +1,8 @@
+{
+  "name": "redux-storage-engine-localstorage",
+  "main": "index.d.ts",
+  "homepage": "https://github.com/michaelcontento/redux-storage-engine-localstorage",
+  "dependencies": {
+    "redux-storage": "github:asvetliakov/typings-redux-storage"
+  }
+}
